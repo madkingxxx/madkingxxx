@@ -11,8 +11,8 @@
 
 ### 📊 Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OtabekDoniyorov&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=OtabekDoniyorov&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=madkingxxx&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=madkingxxx&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
