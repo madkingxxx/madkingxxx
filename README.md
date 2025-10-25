@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @madkingxxx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=160&section=header&text=Otabek%20Doniyorov&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<!---
-madkingxxx/madkingxxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <b>Go Engineer • Backend Systems • Reverse Engineering</b>
+</p>
+
+---
+
+```ascii
+  ██████╗ ███████╗███╗   ██╗██╗██╗  ██╗
+  ██╔══██╗██╔════╝████╗  ██║██║╚██╗██╔╝
+  ██████╔╝█████╗  ██╔██╗ ██║██║ ╚███╔╝ 
+  ██╔══██╗██╔══╝  ██║╚██╗██║██║ ██╔██╗ 
+  ██║  ██║███████╗██║ ╚████║██║██╔╝ ██╗
+  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝
